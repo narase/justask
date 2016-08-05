@@ -8,9 +8,10 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        //Github
         static void Main(string[] args)
         {
-            Console.WriteLine("GitHub");
+            Console.WriteLine("GitHub Changes");
         }
     }
 }
